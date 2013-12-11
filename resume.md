@@ -18,7 +18,7 @@ _Software engineering professional with a drive to create innovative, high-quali
  - A passion for computing
 
 ### Professional Experience
-#### Director of Engineering Operations: Bullhorn, Inc. Boston, MA Nov. 2012 - Feb. 2013
+#### Director of Engineering Operations: Bullhorn, Inc. Boston, MA Nov. 2012 - Present
 Ensuring top-notch operational efficiency of development teams through:
 
  - Disciplined DevOps practices
