@@ -9,21 +9,27 @@ title: Christopher Collier's Resume
 
 _Software engineering professional with a drive to create innovative, high-quality software_
 
- - Computer science background
- - Thirteen years of software development experience
  - Ability to build clean and well-constructed software
  - Desire to solve difficult and unmet problems
+ - Computer science background
+ - Thirteen years of software development experience
  - Leadership and mentoring ability
  - Strong analytic, interpersonal and communication skills
  - A passion for computing
 
 ### Professional Experience
-#### Director of Engineering Operations: Bullhorn, Inc. Boston, MA Nov. 2012 - Mar. 2013
+#### Director of Engineering Operations: Bullhorn, Inc. Boston, MA Nov. 2012 - Feb. 2013
+Ensuring top-notch operational efficiency of development teams through:
 
-#### Engineering Manager: Bullhorn Nov. 2012 - Mar. 2013
+ - Disciplined DevOps practices
+ - Repeatable and consistent server provisioning and configuration
+ - Building the best technologies into our stack
+ - Establishing good source control usage patterns
+ - Constant code reviews
+ - Advocating good use of communication tools (wikis, blogs)
 
-#### Senior Software Engineer: Bullhorn Nov. 2010 - Present
-   Architected and implemented major features for a Web-based SaaS
+#### Senior Software Engineer: Bullhorn Nov. 2010 - Feb. 2013
+   Built major features for a Web-based SaaS
    application servicing 30,000+ users across 2,500+ customer organizations.
 
  - Team lead for REST API implementation built to underpin all data access
@@ -36,15 +42,14 @@ _Software engineering professional with a drive to create innovative, high-quali
  - Actively involved in developing future directions for cloud-based systems
    architectures for new company products.
 
-#### Principal: Nevo Technologies, Inc. Cambridge, MA Nov. 2005 - Nov. 2010
+#### Principal: Nevo Technologies, Inc. Cambridge, MA ~ Nov. 2005 - Nov. 2010
 Provided technical leadership and ensure high quality of work for software
 projects.  Act as tech lead, coder, mentor, project manager and client
 liaison as necessary.  Bring focus on developing shippable software with
 maximum business value to project teams. Successfully shipped several
 $1M+ sized projects on time to referenceable clients.
 
-#### Consultant: British Telecom Conferencing, Inc., Braintree, MA
-   May 2004-Nov. 2005
+#### Consultant: British Telecom Conferencing, Inc., Braintree, MA ~ May 2004-Nov. 2005
    Developed software to integrate Salesforce.com into British Telecom
    Conferencing's existing operational infrastructure.  This included a
    de-duping system that performed textual analysis on records across databases
@@ -54,8 +59,7 @@ $1M+ sized projects on time to referenceable clients.
    Hibernate 3, Struts, Apache Tomcat, JDBC/ODBC, Oracle 9i, PL/SQL, Python,
    Jython, Salesforce.com 
 
-#### Software Engineer: Lavastorm Technologies, Inc. Boston, MA
-   December 2001 - May 2004 
+#### Software Engineer: Lavastorm Technologies, Inc. Boston, MA ~ December 2001 - May 2004 
    Member of the development team for a successful and complex billing analysis
    and restitution/data warehousing product for telecom clients. Designed and
    built large components of the product in C++, Java and PL/SQL, established
@@ -65,8 +69,7 @@ $1M+ sized projects on time to referenceable clients.
    technical issues.  Technologies: C++, Java, Apache Tomcat, Caucho Resin,
    JDBC/ODBC, Oracle 8i, PL/SQL, Python 
 
-#### Software Engineer: Lavastorm Technologies, Inc. Waltham, MA 
-   December 1999 - August 2001 
+#### Software Engineer: Lavastorm Technologies, Inc. Waltham, MA ~ December 1999 - August 2001 
    Developed front-end and business logic software for high-volume e-commerce
    web sites in C++, Java and PL/SQL.  Technologies: C++, COM+, Java, Apache
    Tomcat, Caucho Resin, JDBC/ODBC, Oracle 8i, PL/SQL, Perl 
@@ -90,20 +93,17 @@ Project Management: Agile Methods, requirements gathering, project planning,
 resource allocation, general software project and resource management, client
 relations.
 
-Languages: C, C++, Java, Scala, Perl, Python, Javascript, C#, SQL variants.
+Languages: Java, Scala, Python, Javascript, C#, C++, SQL variants.
 Strong interest in programming languages, their design and effective use.
 
 Software Design and Architecture: Significant interest in and experience with
 Domain-Driven design, Object-relational mappers (Hibernate, NHibernate, SQLAlchemy),
 dependency injection (Spring, Autofac) Development Process: Test-Driven Design, Continuous
-Integration systems (TeamCity, Hudson, Jenkins)
+Integration systems
 
-Web Technologies: Application servers and Web frameworks (J2EE, Django,
-TurboGears), Web MVC frameworks (Struts, ASP.NET MVC), Web services strong
-understanding of general HTTP mechanisms, Rich Web UIs (JQuery, Isomorphic)
+Web Technologies: Application servers and Web frameworks (J2EE, Play framework, Rails, Grails, Spray Django), Web services, strong understanding of general HTTP fundamentals, Rich Web UIs (JQuery, etc.)
 
-Systems Administration: Linux, Apache, MySQL, Oracle, IIS, SQL Server. Special
-interest and experience in Linux systems administration. 
+Systems Administration: Linux, Apache, MySQL Special interest and experience in Linux systems administration.
 
 ### EDUCATION
 
@@ -123,8 +123,7 @@ interest and experience in Linux systems administration.
   optimal approach for given classification situations. 
 
 ####  Other Projects: 
-##### Application of the RAMBO Memory Architecture to Approximate K-Nearest Neighbor
-  Search Solutions for High Dimensions - Massachusetts Institute of Technology, Advanced Data Structures - Spring 2003 
+##### Application of the RAMBO Memory Architecture to Approximate K-Nearest Neighbor Search Solutions for High Dimensions - Massachusetts Institute of Technology, Advanced Data Structures - Spring 2003
   Two schemes are presented for applying a byte-overlapped memory
   architecture to approximate solutions to the K-Nearest Neighbors problem
   to provide very good performance, the fastest of which has a query time of

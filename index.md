@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Christopher Collier
-tagline: 
+tagline: Christopher Collier on Web
 ---
 {% include JB/setup %}
 
-
+[resume](resume.html)
 
 <ul class="posts">
   {% for post in site.posts %}

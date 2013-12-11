@@ -1,18 +1,35 @@
-* {
-  font: 105% 'EB Garamond', serif; }
+/* {
+  font: 105% 'EB Garamond', serif; } */
 
-ul {
+.navbar .brand {
+  font-size: 32pt;
+  font-family: 'Special Elite', monospace; 
+  color: #000;
+  font-weight: bold;
+}
+
+footer {
+  font-size: 8pt;
+}
+
+.content ul {
   list-style-type: none;
-  padding: 0;
-  margin-left: 0;
   padding-left: 1em;
   text-indent: -1em; 
 }
 
-ul li:before {
+.content ul li:before {
 content: "~ ";
 }
 
+.content p {
+  padding-bottom: .5em;
+}
+
+.content li {
+  padding-bottom: .25em;
+  font-size: 100%;
+}
 /* Custom container */
 .container-narrow {
   margin: 0 auto;
