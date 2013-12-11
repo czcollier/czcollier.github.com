@@ -26,7 +26,7 @@ Ensuring top-notch operational efficiency of development teams through:
  - Building the best technologies into our stack
  - Establishing good source control usage patterns
  - Constant code reviews
- - Advocating good use of communication tools (wikis, blogs)
+ - Ensuring frequent communication and advocating good use of communication tools
 
 #### Senior Software Engineer: Bullhorn Nov. 2010 - Feb. 2013
    Built major features for a Web-based SaaS
@@ -43,36 +43,36 @@ Ensuring top-notch operational efficiency of development teams through:
    architectures for new company products.
 
 #### Principal: Nevo Technologies, Inc. Cambridge, MA ~ Nov. 2005 - Nov. 2010
-Provided technical leadership and ensure high quality of work for software
-projects.  Act as tech lead, coder, mentor, project manager and client
-liaison as necessary.  Bring focus on developing shippable software with
-maximum business value to project teams. Successfully shipped several
-$1M+ sized projects on time to referenceable clients.
+  Provided technical leadership and ensured high quality of work for software
+  projects. 
+  
+  - Acted as tech lead, coder, mentor, project manager and client liaison as necessary.
+  - Brought focus on developing shippable software with
+    maximum business value to project teams.
+  - Successfully shipped several $1M+ sized projects on time to referenceable clients.
 
 #### Consultant: British Telecom Conferencing, Inc., Braintree, MA ~ May 2004-Nov. 2005
    Developed software to integrate Salesforce.com into British Telecom
-   Conferencing's existing operational infrastructure.  This included a
-   de-duping system that performed textual analysis on records across databases
-   to compute similarity measures, find potential duplicates and graphically
-   display the textual differences.  Application contributed significantly to
-   company data's cleanliness and consistency. Technologies: J2EE, SOAP,
-   Hibernate 3, Struts, Apache Tomcat, JDBC/ODBC, Oracle 9i, PL/SQL, Python,
-   Jython, Salesforce.com 
+   Conferencing's existing operational infrastructure.
+
+   - Included a de-duping system that performed textual analysis on records across databases
+     to compute similarity measures, find potential duplicates and graphically
+     display the textual differences.
+   - Application contributed significantly to company data's cleanliness and consistency.
 
 #### Software Engineer: Lavastorm Technologies, Inc. Boston, MA ~ December 2001 - May 2004 
    Member of the development team for a successful and complex billing analysis
-   and restitution/data warehousing product for telecom clients. Designed and
-   built large components of the product in C++, Java and PL/SQL, established
-   product standards for the interaction of front-end technologies, followed the
-   product through several design/build/test/release cycles, conducted
-   communications with clients regarding design requirements, functionality and
-   technical issues.  Technologies: C++, Java, Apache Tomcat, Caucho Resin,
-   JDBC/ODBC, Oracle 8i, PL/SQL, Python 
+   and restitution/data warehousing product for telecom clients.
+
+   - Designed and built large components of the product in C++, Java and PL/SQL
+   - Established product standards for the interaction of front-end Technologies
+   - Followed the product through several design/build/test/release cycles
+   - Conducted communications with clients regarding design requirements, functionality and
+     technical issues. 
 
 #### Software Engineer: Lavastorm Technologies, Inc. Waltham, MA ~ December 1999 - August 2001 
    Developed front-end and business logic software for high-volume e-commerce
-   web sites in C++, Java and PL/SQL.  Technologies: C++, COM+, Java, Apache
-   Tomcat, Caucho Resin, JDBC/ODBC, Oracle 8i, PL/SQL, Perl 
+   web sites in C++, Java and PL/SQL.
 
 ### Personal Projects
 #### HTTP Image Server in Python - Built for my family photo album.
@@ -82,7 +82,7 @@ $1M+ sized projects on time to referenceable clients.
 #### Suffix Tree Based Text Indexer in Java
   Project to explore real-world performance of suffix trees for text indexing. 
 
-#### Home Server - CentOS based file, Web, music and X10 server.
+#### Home Server - Linux file, Web, music and X10 server.
   2TB RAID 1 storage, scheduled backups of photo library via rsync to Amazon S3.
   MT-DAAPD hosts music library for iTunes clients.  X10 software (heyu) provides
   centralized control of various household lights and appliances.
