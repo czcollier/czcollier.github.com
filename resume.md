@@ -37,7 +37,7 @@ Ensuring top-notch operational efficiency of development teams through:
    add-on developers.
  - Developed a search term suggestion engine that collects terms commonly
    used together among all searches issued.
- - Led development of a mobile app prividing significant product functionality
+ - Led development of a mobile app providing significant product functionality
    for mobile users.
  - Actively involved in developing future directions for cloud-based systems
    architectures for new company products.
@@ -132,7 +132,7 @@ Systems Administration: Linux, Apache, MySQL Special interest and experience in 
   Long-distance radio propagation phenomena are a possible source of
   naturally-occurring entropy, and may be used to produce random numbers of
   good quality. In this study, this method was used to generate streams of
-  bits which where then subject to several statistical tests for true
+  bits which were then subject to several statistical tests for true
   randomness. Variations in a distantly transmitted, sky-wave propagated
   signal were used to successfully generate the random bits.
 
