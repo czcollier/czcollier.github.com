@@ -9,83 +9,104 @@ title: Christopher Collier's Resume
 
 _Software engineering professional with a drive to create innovative, high-quality software_
 
- - Ability to build clean and well-constructed software
+ - Ability to design and build clean and well-constructed software
  - Desire to solve difficult and unmet problems
  - Computer science background
  - Thirteen years of software development experience
- - Leadership and mentoring ability
+ - Skilled at leading and motivating development teams
+ - Experience working with stakeholders and executives in a technical advisory capacity
  - Strong analytic, interpersonal and communication skills
  - A passion for computing
 
 ### Professional Experience
-#### Director of Engineering Operations: Bullhorn, Inc. Boston, MA Nov. 2012 - Present
-Ensuring top-notch operational efficiency of development teams through:
 
- - Disciplined DevOps practices
- - Repeatable and consistent server provisioning and configuration
- - Building the best technologies into our stack
- - Establishing good source control usage patterns
- - Constant code reviews
- - Ensuring frequent communication and advocating good use of communication tools
+#### Principal Architect: Skyhook Wireless, Inc. Boston, MA Nov. 2014 - Present
+
+ - In collaboration with a small team, designed and built a distributed
+   computation cluster on Hadoop and Spark that processes over 1 billion records per day
+
+ - Communicated software design and architecture direction to stakeholders and
+   executives
+
+ - Established software architecture practices. Facilitated inter-team
+   coordination of software component design and re-use
+
+ - Reconciled product roadmap with technology initiatives to ensure alignment
+   between engineering and product teams
+
+ - Helped establish and maintain agile software practices
+
+ - Provided hands-on technical leadership in the form of development team
+   participation with emphasis on code quality and good software design and
+   engineering practices; mentored and advised engineers
+
+#### Director of Engineering Operations: Bullhorn, Inc. Boston, MA Nov. 2012 - Nov. 2014 
+
+  - Established consistent DevOps practices across development teams; designed DevOps approach
+
+  - Led effort that built repeatable and consistent server provisioning and
+    configuration for development and QA environments. Coordinated development
+    and QA provisioning with production provisioning
+
+  - Established source control usage patterns and led education program for
+    source control standards
+
+  - Established code review procedure and led code review sessions
 
 #### Senior Software Engineer: Bullhorn Nov. 2010 - Feb. 2013
    Built major features for a Web-based SaaS
    application servicing 30,000+ users across 2,500+ customer organizations.
 
- - Team lead for REST API implementation built to underpin all data access
-   for new product features. Also exposed to customers and 3rd party
-   add-on developers.
- - Developed a search term suggestion engine that collects terms commonly
-   used together among all searches issued.
- - Led development of a mobile app providing significant product functionality
-   for mobile users.
- - Actively involved in developing future directions for cloud-based systems
-   architectures for new company products.
+  - Team lead for REST API implementation built to underpin all data access
+    for new product features. Also exposed to customers and 3rd party
+    add-on developers.
+
+  - Developed a search term suggestion engine that collects terms commonly
+    used together among all searches issued.
+
+  - Led development of a mobile app providing significant product functionality
+    for mobile users.
+
+  - Actively involved in developing future directions for cloud-based systems
+    architectures for new company products.
 
 #### Principal: Nevo Technologies, Inc. Cambridge, MA ~ Nov. 2005 - Nov. 2010
   Provided technical leadership and ensured high quality of work for software
   projects. 
   
   - Acted as tech lead, coder, mentor, project manager and client liaison as necessary.
+
   - Brought focus on developing shippable software with
     maximum business value to project teams.
+
   - Successfully shipped several $1M+ sized projects on time to referenceable clients.
 
 #### Consultant: British Telecom Conferencing, Inc., Braintree, MA ~ May 2004-Nov. 2005
-   Developed software to integrate Salesforce.com into British Telecom
-   Conferencing's existing operational infrastructure.
+  - Developed software to integrate Salesforce.com into British Telecom
+    Conferencing's existing operational infrastructure.
 
-   - Included a de-duping system that performed textual analysis on records across databases
-     to compute similarity measures, find potential duplicates and graphically
-     display the textual differences.
-   - Application contributed significantly to company data's cleanliness and consistency.
+  - Included a de-duping system that performed textual analysis on records across databases
+    to compute similarity measures, find potential duplicates and graphically
+    display the textual differences.
+
+  - Application contributed significantly to company data's cleanliness and consistency.
 
 #### Software Engineer: Lavastorm Technologies, Inc. Boston, MA ~ December 2001 - May 2004 
    Member of the development team for a successful and complex billing analysis
    and restitution/data warehousing product for telecom clients.
 
-   - Designed and built large components of the product in C++, Java and PL/SQL
-   - Established product standards for the interaction of front-end Technologies
-   - Followed the product through several design/build/test/release cycles
-   - Conducted communications with clients regarding design requirements, functionality and
-     technical issues. 
+  - Designed and built large components of the product in C++, Java and PL/SQL
+
+  - Established product standards for the interaction of front-end Technologies
+
+  - Followed the product through several design/build/test/release cycles
+
+  - Conducted communications with clients regarding design requirements, functionality and
+    technical issues. 
 
 #### Software Engineer: Lavastorm Technologies, Inc. Waltham, MA ~ December 1999 - August 2001 
    Developed front-end and business logic software for high-volume e-commerce
    web sites in C++, Java and PL/SQL.
-
-### Personal Projects
-#### HTTP Image Server in Python - Built for my family photo album.
-  Provides an HTTP access to an image library and allows transformations
-  (sizing, rotation, brightness/contrast, cropping) to images on the fly.
-  Caches transformed versions of images on filesystem to reduce server load.
-#### Suffix Tree Based Text Indexer in Java
-  Project to explore real-world performance of suffix trees for text indexing. 
-
-#### Home Server - Linux file, Web, music and X10 server.
-  2TB RAID 1 storage, scheduled backups of photo library via rsync to Amazon S3.
-  MT-DAAPD hosts music library for iTunes clients.  X10 software (heyu) provides
-  centralized control of various household lights and appliances.
 
 ### SKILLS
 
@@ -97,32 +118,25 @@ Languages: Java, Scala, Python, Javascript, C#, C++, SQL variants.
 Strong interest in programming languages, their design and effective use.
 
 Software Design and Architecture: Significant interest in and experience with
-Domain-Driven design, Object-relational mappers (Hibernate, NHibernate, SQLAlchemy),
-dependency injection (Spring, Autofac) Development Process: Test-Driven Design, Continuous
-Integration systems
-
-Web Technologies: Application servers and Web frameworks (J2EE, Play framework, Rails, Grails, Spray Django), Web services, strong understanding of general HTTP fundamentals, Rich Web UIs (JQuery, etc.)
-
-Systems Administration: Linux, Apache, MySQL Special interest and experience in Linux systems administration.
+Domain-Driven design, Test-Driven Design, Continuous Integration systems,
+distributed computation systems
 
 ### EDUCATION
 
-#### Ph.D. Research May 2004-May 2005 - Tufts University, Medford, MA 
+#### Tufts University, Medford, MA - Certificate May 2002
+##### Ph.D. Research May 2004-May 2005
    Examined lower bounding measures and other techniques for speeding
    computation of Dynamic Time Warping and other distance measures traditionally
    used for time series comparison. Applied discovered techniques to string
    similarity searches, for application in computational biology and textual
    analysis/text search problems. 
-
-####  Master of Science in Computer Science May 2004, GPA 3.67 - Tufts
-
+#####  Master of Science in Computer Science May 2004, GPA 3.67
 #####  Thesis Project: Artificial Nose 
   Developed software to identify and classify airborne compounds given time-series
   data from an optical array based olfactory sensor. Employed statistical machine
   learning methods. Studied accuracy of these varied techniques to determine the
   optimal approach for given classification situations. 
-
-####  Other Projects: 
+#####  Other Projects: 
 ##### Application of the RAMBO Memory Architecture to Approximate K-Nearest Neighbor Search Solutions for High Dimensions - Massachusetts Institute of Technology, Advanced Data Structures - Spring 2003
   Two schemes are presented for applying a byte-overlapped memory
   architecture to approximate solutions to the K-Nearest Neighbors problem
@@ -135,12 +149,12 @@ Systems Administration: Linux, Apache, MySQL Special interest and experience in 
   bits which were then subject to several statistical tests for true
   randomness. Variations in a distantly transmitted, sky-wave propagated
   signal were used to successfully generate the random bits.
+##### Post-Baccalaureate Minor in Computer Science - Certificate May 2002
 
-### Tufts University, Medford, MA - Certificate May 2002 
-#### Post-Baccalaureate Minor in Computer Science 
+#### Connecticut College, New London, CT
+##### B.A. May 1997, Architectural Studies, concentration in Design Studies
 
-### Connecticut College, New London, CT - B.A. May 1997 
-#### Architectural Studies major, concentration in Design Studies 
+
 
 ## Professional Associations
 Member of: IEEE, ACM, Regular AgileBoston conference attendee, ARRL (callsign: KB1HQM)
