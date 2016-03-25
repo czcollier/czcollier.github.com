@@ -159,19 +159,19 @@ distributed computation systems
 
  - Application of the RAMBO Memory Architecture to Approximate K-Nearest Neighbor Search Solutions for High Dimensions - Massachusetts Institute of Technology, Advanced Data Structures - Spring 2003
 
-  Two schemes are presented for applying a byte-overlapped memory
-  architecture to approximate solutions to the K-Nearest Neighbors problem
-  to provide very good performance, the fastest of which has a query time of
-  O(d + k), for k points reported in d dimensional space.
+   Two schemes are presented for applying a byte-overlapped memory
+   architecture to approximate solutions to the K-Nearest Neighbors problem
+   to provide very good performance, the fastest of which has a query time of
+   O(d + k), for k points reported in d dimensional space.
 
  - Random Bit Generation Using Atmospheric Radio Propagation Phenomena - Tufts University, Cryptography and Security - Fall 2002 
 
-  Long-distance radio propagation phenomena are a possible source of
-  naturally-occurring entropy, and may be used to produce random numbers of
-  good quality. In this study, this method was used to generate streams of
-  bits which were then subject to several statistical tests for true
-  randomness. Variations in a distantly transmitted, sky-wave propagated
-  signal were used to successfully generate the random bits.
+   Long-distance radio propagation phenomena are a possible source of
+   naturally-occurring entropy, and may be used to produce random numbers of
+   good quality. In this study, this method was used to generate streams of
+   bits which were then subject to several statistical tests for true
+   randomness. Variations in a distantly transmitted, sky-wave propagated
+   signal were used to successfully generate the random bits.
 
 ##### Post-Baccalaureate Minor in Computer Science - Certificate May 2002
 
