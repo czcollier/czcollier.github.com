@@ -139,34 +139,44 @@ distributed computation systems
 ### EDUCATION
 
 #### Tufts University, Medford, MA - Certificate May 2002
+
 ##### Ph.D. Research May 2004-May 2005
    Examined lower bounding measures and other techniques for speeding
    computation of Dynamic Time Warping and other distance measures traditionally
    used for time series comparison. Applied discovered techniques to string
    similarity searches, for application in computational biology and textual
    analysis/text search problems. 
+
 #####  Master of Science in Computer Science May 2004, GPA 3.67
+
 #####  Thesis Project: Artificial Nose 
   Developed software to identify and classify airborne compounds given time-series
   data from an optical array based olfactory sensor. Employed statistical machine
   learning methods. Studied accuracy of these varied techniques to determine the
   optimal approach for given classification situations. 
+
 #####  Other Projects: 
-##### Application of the RAMBO Memory Architecture to Approximate K-Nearest Neighbor Search Solutions for High Dimensions - Massachusetts Institute of Technology, Advanced Data Structures - Spring 2003
+
+ - Application of the RAMBO Memory Architecture to Approximate K-Nearest Neighbor Search Solutions for High Dimensions - Massachusetts Institute of Technology, Advanced Data Structures - Spring 2003
+
   Two schemes are presented for applying a byte-overlapped memory
   architecture to approximate solutions to the K-Nearest Neighbors problem
   to provide very good performance, the fastest of which has a query time of
   O(d + k), for k points reported in d dimensional space.
-##### Random Bit Generation Using Atmospheric Radio Propagation Phenomena - Tufts University, Cryptography and Security - Fall 2002 
+
+ - Random Bit Generation Using Atmospheric Radio Propagation Phenomena - Tufts University, Cryptography and Security - Fall 2002 
+
   Long-distance radio propagation phenomena are a possible source of
   naturally-occurring entropy, and may be used to produce random numbers of
   good quality. In this study, this method was used to generate streams of
   bits which were then subject to several statistical tests for true
   randomness. Variations in a distantly transmitted, sky-wave propagated
   signal were used to successfully generate the random bits.
+
 ##### Post-Baccalaureate Minor in Computer Science - Certificate May 2002
 
 #### Connecticut College, New London, CT
+
 ##### B.A. May 1997, Architectural Studies, concentration in Design Studies
 
 
