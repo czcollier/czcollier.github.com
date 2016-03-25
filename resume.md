@@ -2,13 +2,9 @@
 layout: default
 title: Christopher Collier's Resume
 ---
-<center>
-
 # Christopher Collier
 
 **4 Franklin St. Charlestown, MA 02129 &bull; (617) 721-6197 &bull; czcollier gmail**
-
-</center>
 
 _Software engineering professional with a drive to create innovative, high-quality software_
 
