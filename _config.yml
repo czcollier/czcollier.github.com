@@ -17,7 +17,7 @@ author :
   twitter : czcollier
   feedburner : feedname
 
-markdown: redcarpet
+#markdown: redcarpet
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data"]
 # The production_url is only used when full-domain names are needed

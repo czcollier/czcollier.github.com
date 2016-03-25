@@ -30,14 +30,17 @@ _Software engineering professional with a drive to create innovative, high-quali
     EC2 d2.2xlarge (8 core, 28 ECU) instances.
 
  - Project: High volume API Management:
-     - Built an API management system on Akka that provides configurable
-       request throttling and load balancing to individual API
-       servers. Handles 50,000 requests/second on a c4.2xlarge EC2 instance.
+ 
+   Built an API management system on Akka that provides configurable
+   request throttling and load balancing to individual API
+   servers. Handles 50,000 requests/second on a c4.2xlarge EC2 instance.
+   
  - Project: Fuzzy search geocoding
-     - Modified a popular open-source geocoder written in Scala to
-     perform fuzzy matches on location name searches using Lucene's
-     available phoenetic matching and string edit distance utilities.
-     Deployed to production environment servicing large customers globally.
+ 
+   Modified a popular open-source geocoder written in Scala to
+   perform fuzzy matches on location name searches using Lucene's
+   available phoenetic matching and string edit distance utilities.
+   Deployed to production environment servicing large customers globally.
      
  - Communicated software design and architecture direction to
    stakeholders and executives
