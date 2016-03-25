@@ -140,7 +140,7 @@ distributed computation systems
 
 #### Tufts University, Medford, MA - Certificate May 2002
 
-#### Ph.D. Research May 2004-May 2005
+##### Ph.D. Research May 2004-May 2005
    Examined lower bounding measures and other techniques for speeding
    computation of Dynamic Time Warping and other distance measures traditionally
    used for time series comparison. Applied discovered techniques to string
