@@ -22,11 +22,24 @@ _Software engineering professional with a drive to create innovative, high-quali
 
 #### Principal Architect: Skyhook Wireless, Inc. Boston, MA Nov. 2014 - Present
 
- - In collaboration with a small team, designed and built a distributed
-   computation cluster on Hadoop and Spark that processes over 1 billion records per day
+ - Project: Distributed location sample processing:
+     - In collaboration with a small team, built a distributed
+       computation cluster on Hadoop and Spark that processes over 1
+       billion geospatial locations per day on an 8-node cluster of
+       EC2 d2.2xlarge (8 core, 28 ECU) instances.
 
- - Communicated software design and architecture direction to stakeholders and
-   executives
+ - Project: High volume API Management:
+     - Built an API management system on Akka that provides configurable
+       request throttling and load balancing to individual API
+       servers. Handles 50,000 requests/second on a c4.2xlarge EC2 instance.
+ - Project: Fuzzy search geocoding
+     - Modified a popular open-source geocoder written in Scala to
+     perform fuzzy matches on location name searches using Lucene's
+     available phoenetic matching and string edit distance utilities.
+     Deployed to production environment servicing large customers globally.
+     
+ - Communicated software design and architecture direction to
+   stakeholders and executives
 
  - Established software architecture practices. Facilitated inter-team
    coordination of software component design and re-use
@@ -40,7 +53,7 @@ _Software engineering professional with a drive to create innovative, high-quali
    participation with emphasis on code quality and good software design and
    engineering practices; mentored and advised engineers
 
-#### Director of Engineering Operations: Bullhorn, Inc. Boston, MA Nov. 2012 - Nov. 2014 
+#### Director of Engineering Operations: Bullhorn, Inc. Boston, MA Nov. 2010 - Nov. 2014 
 
   - Established consistent DevOps practices across development teams; designed DevOps approach
 
@@ -53,22 +66,21 @@ _Software engineering professional with a drive to create innovative, high-quali
 
   - Established code review procedure and led code review sessions
 
-#### Senior Software Engineer: Bullhorn Nov. 2010 - Feb. 2013
-   Built major features for a Web-based SaaS
-   application servicing 30,000+ users across 2,500+ customer organizations.
+  - Designed and built major features for a Web-based SaaS application
+   servicing 30,000+ users across 2,500+ customer organizations.
 
-  - Team lead for REST API implementation built to underpin all data access
-    for new product features. Also exposed to customers and 3rd party
-    add-on developers.
+  - Team lead for REST API implementation built to underpin all data
+    access for new product features. Also exposed to customers and 3rd
+    party add-on developers.
 
-  - Developed a search term suggestion engine that collects terms commonly
-    used together among all searches issued.
+  - Developed a search term suggestion engine that collects terms
+    commonly used together among all searches issued.
 
-  - Led development of a mobile app providing significant product functionality
-    for mobile users.
+  - Led development of a mobile app providing significant product
+    functionality for mobile users.
 
-  - Actively involved in developing future directions for cloud-based systems
-    architectures for new company products.
+  - Actively involved in developing future directions for cloud-based
+    systems architectures for new company products.
 
 #### Principal: Nevo Technologies, Inc. Cambridge, MA ~ Nov. 2005 - Nov. 2010
   Provided technical leadership and ensured high quality of work for software
