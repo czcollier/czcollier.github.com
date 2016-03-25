@@ -21,16 +21,12 @@ _Software engineering professional with a drive to create innovative, high-quali
 
 #### Principal Architect: Skyhook Wireless, Inc. Boston, MA Nov. 2014 - Present
 
- - Project: Distributed location sample processing:
- 
-    In collaboration with a small team, built a distributed
-    computation cluster on Hadoop and Spark that processes over 1
-    billion geospatial locations per day on an 8-node cluster of
-    EC2 d2.2xlarge (8 core, 28 ECU) instances.
+ - In collaboration with a small team, built a distributed
+   computation cluster on Hadoop and Spark that processes over 1
+   billion geospatial locations per day on an 8-node cluster of
+   EC2 d2.2xlarge (8 core, 28 ECU) instances.
 
- - Project: High volume API Management:
- 
-   Built an API management system on Akka that provides configurable
+ - Built an API management system on Akka that provides configurable
    request throttling and load balancing to individual API
    servers. Handles 50,000 requests/second on a c4.2xlarge EC2 instance.
    
