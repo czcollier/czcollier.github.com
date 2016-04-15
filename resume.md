@@ -1,7 +1,3 @@
----
-layout: default
-title: Christopher Collier's Resume
----
 # Christopher Collier
 
 **4 Franklin St. Charlestown, MA 02129 &bull; (617) 721-6197 &bull; czcollier gmail**
@@ -114,19 +110,6 @@ practices_
 #### Software Engineer: Lavastorm Technologies, Inc. Waltham, MA ~ December 1999 - August 2001 
    Developed front-end and business logic software for high-volume e-commerce
    web sites in C++, Java and PL/SQL.
-
-### SKILLS
-
-Project Management: Agile Methods, requirements gathering, project planning,
-resource allocation, general software project and resource management, client
-relations.
-
-Languages: Java, Scala, Python, Javascript, C#, C++, SQL variants.
-Strong interest in programming languages, their design and effective use.
-
-Software Design and Architecture: Significant interest in and experience with
-Domain-Driven design, Test-Driven Design, Continuous Integration systems,
-distributed computation systems
 
 ### EDUCATION
 
