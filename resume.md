@@ -1,6 +1,6 @@
 ---
 layout: page
-tagline: Christopher Collier
+title: Christopher Collier
 ---
 # Christopher Collier
 
