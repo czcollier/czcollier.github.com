@@ -21,40 +21,33 @@ _Software engineering professional with a drive to create innovative, high-quali
 
 #### Principal Architect: Skyhook Wireless, Inc. Boston, MA Nov. 2014 - Present
 
- - In collaboration with a small team, built a distributed
-   computation cluster on Hadoop and Spark that processes over 1
-   billion geospatial locations per day on an 8-node cluster of
+ - Drove organization-wide architectural directions, ensured
+   consistency and compatibility of software designs across product
+   lines, communicated architectural decisions to product leaders and
+   executives.
+ 
+ - In collaboration with a small team, designed and built a
+   distributed computation cluster on Hadoop and Spark that processes
+   over 1 billion geospatial locations per day on an 8-node cluster of
    EC2 d2.2xlarge (8 core, 28 ECU) instances.
 
  - Built an API management system on Akka that provides configurable
-   request throttling and load balancing to individual API
+   request throttling, load balancing and routing to individual API
    servers. Handles 50,000 requests/second on a c4.2xlarge EC2 instance.
    
- - Project: Fuzzy search geocoding
- 
-   Modified a popular open-source geocoder written in Scala to
+ - Modified a popular open-source geocoder written in Scala to
    perform fuzzy matches on location name searches using Lucene's
    available phoenetic matching and string edit distance utilities.
    Deployed to production environment servicing large customers globally.
-     
- - Communicated software design and architecture direction to
-   stakeholders and executives
-
- - Established software architecture practices. Facilitated inter-team
-   coordination of software component design and re-use
-
- - Reconciled product roadmap with technology initiatives to ensure alignment
-   between engineering and product teams
-
- - Helped establish and maintain agile software practices
 
  - Provided hands-on technical leadership in the form of development team
    participation with emphasis on code quality and good software design and
    engineering practices; mentored and advised engineers
 
-#### Director of Engineering Operations: Bullhorn, Inc. Boston, MA Nov. 2010 - Nov. 2014 
+#### Director of Engineering Operations: Bullhorn, Inc. Boston, MA Nov. 2010 - Nov. 2014
 
-  - Established consistent DevOps practices across development teams; designed DevOps approach
+  - Established consistent DevOps practices across development teams;
+    designed DevOps approach
 
   - Led effort that built repeatable and consistent server provisioning and
     configuration for development and QA environments. Coordinated development
