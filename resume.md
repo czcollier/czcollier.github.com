@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: Resume for Christopher Z. Collier, software engineering professional in Boston
 ---
 # Christopher Z. Collier
