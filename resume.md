@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Christopher Z. Collier Resume
 description: Resume for Christopher Z. Collier, software engineering professional in Boston
 ---
 # Christopher Z. Collier
