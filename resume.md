@@ -17,6 +17,10 @@ _Software engineering professional with a drive to create innovative, high-quali
  - Strong analytic, interpersonal and communication skills
  - A passion for computing
 
+_Areas of expertise: Distributed data processing and Web systems, text
+search methods, Web system performance analysis, software design, software engineering
+practices_
+
 ### Professional Experience
 
 #### Principal Architect: Skyhook Wireless, Inc. Boston, MA Nov. 2014 - Present
@@ -27,13 +31,12 @@ _Software engineering professional with a drive to create innovative, high-quali
    executives.
  
  - In collaboration with a small team, designed and built a
-   distributed computation cluster on Hadoop and Spark that processes
-   over 1 billion geospatial locations per day on an 8-node cluster of
-   EC2 d2.2xlarge (8 core, 28 ECU) instances.
+   distributed computation cluster on Hadoop and Spark. Processes
+   over 1 billion geospatial locations per day.
 
  - Built an API management system on Akka that provides configurable
-   request throttling, load balancing and routing to individual API
-   servers. Handles 50,000 requests/second on a c4.2xlarge EC2 instance.
+   request throttling, load balancing and routing to API servers. Peak
+   load capacity 50,000 requests/second.
    
  - Modified a popular open-source geocoder written in Scala to
    perform fuzzy matches on location name searches using Lucene's
