@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Christopher Collier
+title: Christopher Z. Collier Resume
+description: Resume for Christopher Z. Collier, software engineering professional in Boston
 ---
-# Christopher Collier
+# Christopher Z. Collier
 
 **4 Franklin St. Charlestown, MA 02129 &bull; (617) 721-6197 &bull; czcollier gmail**
 
