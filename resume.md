@@ -111,7 +111,7 @@ practices_
    Developed front-end and business logic software for high-volume e-commerce
    web sites in C++, Java and PL/SQL.
 
-### EDUCATION
+### Education
 
 #### Tufts University, Medford, MA - Certificate May 2002
 
