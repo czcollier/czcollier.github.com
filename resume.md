@@ -1,3 +1,7 @@
+---
+layout: page
+tagline: Christopher Collier
+---
 # Christopher Collier
 
 **4 Franklin St. Charlestown, MA 02129 &bull; (617) 721-6197 &bull; czcollier gmail**
