@@ -9,9 +9,9 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Xorf.net
-tagline: Christopher Collier
-author :
-  name : Christopher Collier
+tagline: Christopher Z. Collier
+author : Christopher Z. Collier
+  name : Christopher Z. Collier
   email : czcollier@gmail.com
   github : czcollier
   twitter : czcollier

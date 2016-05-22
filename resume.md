@@ -35,13 +35,15 @@ practices_
    over 1 billion geospatial locations per day.
 
  - Built an API management system on Akka that provides configurable
-   request throttling, load balancing and routing to API servers. Peak
-   load capacity 50,000 requests/second.
-   
+   request throttling, load balancing and request routing to API servers. Peak
+   load capacity 50,000 requests/second. Built as part of preparation for conversion
+   of a monolithic application to microservices. 
+ 
  - Modified a popular open-source geocoder written in Scala to
    perform fuzzy matches on location name searches using Lucene's
    available phoenetic matching and string edit distance utilities.
-   Deployed to production environment servicing large customers globally.
+   Deployed to production environment as infrastructure's first
+   microservice. Thrift API. Services large customers globally.
 
  - Provided hands-on technical leadership in the form of development team
    participation with emphasis on code quality and good software design and
@@ -62,10 +64,11 @@ practices_
   - Established code review procedure and led code review sessions
 
   - Designed and built major features for a Web-based SaaS application
-   servicing 30,000+ users across 2,500+ customer organizations.
+    servicing 30,000+ users across 2,500+ customer organizations.
+    Microservices architecture
 
-  - Team lead for REST API implementation built to underpin all data
-    access for new product features. Also exposed to customers and 3rd
+  - Team lead for REST API implementation serving as an API gateway 
+    to unerlying microservices. Also exposed to customers and 3rd
     party add-on developers.
 
   - Developed a search term suggestion engine that collects terms
