@@ -11,11 +11,11 @@ pygments: true
 title : Xorf.net
 tagline: Christopher Z. Collier
 author : Christopher Z. Collier
-  name : Christopher Z. Collier
-  email : czcollier@gmail.com
-  github : czcollier
-  twitter : czcollier
-  feedburner : feedname
+name : Christopher Z. Collier
+email : czcollier@gmail.com
+github : czcollier
+twitter : czcollier
+#feedburner : feedname
 
 #markdown: redcarpet
 redcarpet:
